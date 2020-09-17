@@ -1,11 +1,9 @@
-import React from 'react';
+import React from 'react'
+
+import Routes from '../routes/routes'
 
 function App() {
-  return (
-    <>
-      Teste
-    </>
-  );
+  return <Routes />
 }
 
-export default App;
+export default App
